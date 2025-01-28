@@ -1,0 +1,14 @@
+C:\Users\jeron\source\repos\Video\Video\bin\Debug\net7.0\Video.exe
+C:\Users\jeron\source\repos\Video\Video\bin\Debug\net7.0\Video.deps.json
+C:\Users\jeron\source\repos\Video\Video\bin\Debug\net7.0\Video.runtimeconfig.json
+C:\Users\jeron\source\repos\Video\Video\bin\Debug\net7.0\Video.dll
+C:\Users\jeron\source\repos\Video\Video\bin\Debug\net7.0\Video.pdb
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\Video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\Video.AssemblyInfoInputs.cache
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\Video.AssemblyInfo.cs
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\Video.csproj.CoreCompileInputs.cache
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\Video.dll
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\refint\Video.dll
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\Video.pdb
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\Video.genruntimeconfig.cache
+C:\Users\jeron\source\repos\Video\Video\obj\Debug\net7.0\ref\Video.dll
